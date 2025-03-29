@@ -38,6 +38,8 @@ Make sure you have the following installed on your system:
     - git clone https://github.com/your-username/employwise-assignment.git
 - *Navigate to the project directory* :
    - cd employwise-assignment
+- *Install react-scripts*:
+   - npm install react-scripts(node modules)
 - *Install dependencies* :
    - npm install
 - *Start the development server* :
