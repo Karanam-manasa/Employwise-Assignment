@@ -35,7 +35,7 @@ Make sure you have the following installed on your system:
 
 # Steps to Set Up the Project
 - *Clone the repository* :
-    - git clone https://github.com/your-username/employwise-assignment.git
+    - git clone https://github.com/your-username/employwise-ass.git
 - *Navigate to the project directory* :
    - cd employwise-assignment
 - *Install react-scripts*:
